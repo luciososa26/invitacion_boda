@@ -19,7 +19,7 @@ body {
 .Inicio {
   width: 680px;
   height: 1020px;
-  background-image: url('../img/Fondo.png'); 
+  background-image: url('../img/Fondo'); 
   background-size: cover;                   
   background-position: center;             
   background-repeat: no-repeat;            
@@ -78,4 +78,5 @@ a:hover {
 .Firma span {
   font-weight: 400;
 }
+
 
