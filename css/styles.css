@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: 'Goudy';
-  src: url('../Font/Goudy.ttf') format('truetype'); /* ✅ corregido */
+  src: url('../Font/Goudy.ttf') format('truetype'); 
 }
 
 body {
@@ -19,10 +19,10 @@ body {
 .Inicio {
   width: 680px;
   height: 1020px;
-  background-image: url('../img/Fondo.png'); /* ✅ corregido */
-  background-size: cover;                   /* ✅ recomendado */
-  background-position: center;              /* ✅ recomendado */
-  background-repeat: no-repeat;             /* ✅ recomendado */
+  background-image: url('../img/Fondo.png'); 
+  background-size: cover;                   
+  background-position: center;             
+  background-repeat: no-repeat;            
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -78,3 +78,4 @@ a:hover {
 .Firma span {
   font-weight: 400;
 }
+
